@@ -6,4 +6,8 @@ class HelloWorld {
     public static void f1(){
        int a = 5;
     }
+
+    public static void f2(){
+       int a = 6;
+    }
 }
