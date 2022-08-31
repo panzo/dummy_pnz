@@ -10,4 +10,9 @@ class HelloWorld {
     public static void f2(){
        int a = 6;
     }
+
+    public static void f3(){
+       int a = 9;
+    }
+
 }
