@@ -19,4 +19,8 @@ class HelloWorld {
        int a = 9;
     }
 
+    public static void f5(){
+       int a = 9;
+    }
+
 }
