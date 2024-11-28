@@ -23,4 +23,8 @@ class HelloWorld {
        int a = 9;
     }
 
+    public static void f6(){
+       int a = 9;
+    }
+
 }
