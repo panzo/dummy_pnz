@@ -23,9 +23,7 @@ public class CyclomaticComplexityDemo {
                            }
                     }
              }
- 
              else{
- 
                     var1=var4;
  
              }
