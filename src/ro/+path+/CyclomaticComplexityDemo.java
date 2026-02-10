@@ -19,11 +19,8 @@ public class CyclomaticComplexityDemo {
                            if (var3 > var4){
  
                                  var3 = var4;
- 
                            }
- 
                            else{
- 
                                  var4 = var1;
  
                            }
