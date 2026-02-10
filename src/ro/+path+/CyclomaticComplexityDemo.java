@@ -20,11 +20,8 @@ public class CyclomaticComplexityDemo {
                            }
                            else{
                                  var4 = var1;
- 
                            }
- 
                     }
- 
              }
  
              else{
