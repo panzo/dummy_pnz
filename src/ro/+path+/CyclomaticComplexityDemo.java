@@ -10,11 +10,8 @@ public class CyclomaticComplexityDemo {
              int var4 = 7;
            
              if (var1 == 10){
- 
                     if(var2 > var3){
- 
                            var2 = var3;
- 
                     }
  
                     else{
