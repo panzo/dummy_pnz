@@ -27,4 +27,8 @@ class HelloWorld {
        int a = 9;
     }
 
+    public int bla(){
+      return 6;
+    }
+
 }
