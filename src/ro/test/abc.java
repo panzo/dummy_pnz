@@ -31,4 +31,8 @@ class HelloWorld {
       return 6;
     }
 
+    public int bla2(){
+      return 7;
+    }
+
 }
